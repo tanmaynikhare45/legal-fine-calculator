@@ -27,7 +27,7 @@ This app can serve:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tech          | Description               |
 |---------------|---------------------------|
