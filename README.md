@@ -1,33 +1,33 @@
-# ⚖️ Legal Fine Calculator
+#  Legal Fine Calculator
 
-### 🚀 A Smart Tool for Instant Legal Fine Estimation  
-> 💡 Built at ByteVerse 7.0 Hackathon to simplify legal penalty calculations for everyday users.
+###  A Smart Tool for Instant Legal Fine Estimation  
+>  Built at ByteVerse 7.0 Hackathon to simplify legal penalty calculations for everyday users.
 
 ---
 
-## 🧠 What is Legal Fine Calculator?
+##  What is Legal Fine Calculator?
 
 The **Legal Fine Calculator** is a web-based tool designed to **help citizens calculate legal penalties** such as traffic fines and tax-related penalties with ease. The goal is to make legal compliance **transparent**, **accessible**, and **instant** — no law degree needed.
 
 This app can serve:
-- 🚗 Drivers who want to understand traffic violation costs  
-- 💼 Taxpayers unsure about filing deadlines  
-- 👮 Law enforcement or lawyers offering quick references  
-- 📱 Anyone looking to learn about their legal responsibilities  
+-  Drivers who want to understand traffic violation costs  
+-  Taxpayers unsure about filing deadlines  
+-  Law enforcement or lawyers offering quick references  
+-  Anyone looking to learn about their legal responsibilities  
 
 ---
 
-## 🔥 Features
+##  Features
 
-- ✅ Easy-to-use interface with responsive design
-- 🧮 Accurate fine estimations based on predefined legal rules
-- 📂 Modular logic for adding new legal domains (like civil, labor, etc.)
-- 🎨 Clean UI built with Tailwind and ShadCN UI
-- ⚡ Blazing-fast with Next.js (App Router)
+-  Easy-to-use interface with responsive design
+-  Accurate fine estimations based on predefined legal rules
+-  Modular logic for adding new legal domains (like civil, labor, etc.)
+-  Clean UI built with Tailwind and ShadCN UI
+-  Blazing-fast with Next.js (App Router)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Tech          | Description               |
 |---------------|---------------------------|
@@ -39,7 +39,7 @@ This app can serve:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 
 
