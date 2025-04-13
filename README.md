@@ -41,10 +41,10 @@ This app can serve:
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
+
 
 ```bash
-git clone https://github.com/tanmaynikhare45/legal-fine-calculator
+git code https://github.com/tanmaynikhare45/legal-fine-calculator
 cd legal-fine-calculator
 <img width="808" alt="image" src="https://github.com/user-attachments/assets/49488cfc-42d2-4146-8942-733c6e7c3328" />
 <img width="727" alt="image" src="https://github.com/user-attachments/assets/2335fc4e-bcdd-4a27-bf26-b31a07e71068" />
